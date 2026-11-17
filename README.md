@@ -1,2 +1,3 @@
-# hyrax_lessons
-Hyrax training and lesson materials for workshops
+# Hyrax Lessons and Training Materials
+
+This collection of notebooks and examples demonstrates how to use Hyrax.
